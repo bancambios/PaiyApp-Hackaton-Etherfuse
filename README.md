@@ -1,3 +1,3 @@
-# PAIyHackaton
+# Paiy App Hackaton
 UI 
 Flow
