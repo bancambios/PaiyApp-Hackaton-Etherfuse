@@ -5,7 +5,8 @@
  
  NaltonPaiyApp - Pequenio Corredor Veloz!]
  
- (https://user-images.githubusercontent.com/17559524/221425255-f526ac3c-be63-426b-acca-7735418baebe.png)
+![image](https://user-images.githubusercontent.com/17559524/221425423-bd5ac019-6a00-411e-9170-887aacd984d3.png)
+
 
 
 <a title="Logo pAIy" href="https://www.canva.com/design/DAFbohngzsQ/5U7AudeforlzVrcpKlU-9A/watch?utm_content=DAFbohngzsQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><img src="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse/blob/main/Images/Log1.png"  width="200" height="200"></a>
