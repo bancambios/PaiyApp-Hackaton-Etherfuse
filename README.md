@@ -97,5 +97,6 @@ Infraestructura
 
 
 Arquitectura:
+   
 ![image](https://user-images.githubusercontent.com/17559524/221425040-1ffa914c-1b66-4fc6-8b7b-f0633e28511a.png)
 
