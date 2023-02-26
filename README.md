@@ -3,7 +3,7 @@
 <a title="Proyect Name"  target="_blank"><img src="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse/blob/main/Images/ProyectName%7D.png"  width="400" height="75"></a>
  
  
- NaltonPaiyApp - Pequenio Corredor Veloz!]
+ Nalton Paiy App - Pequenio Corredor Veloz!] - Remesas y pagos divertidos desde tu bolsillo!
  
 ![image](https://user-images.githubusercontent.com/17559524/221425655-baced173-a952-46b8-aecc-b1235ca6336f.png)
 
