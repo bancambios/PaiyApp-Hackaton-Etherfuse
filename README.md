@@ -1,6 +1,6 @@
 <div>
 <h1 style="text-align: center;"><span style="color: #003366;"><strong>p<span style="color: #800000;">AI</span>y App Hackaton </strong></span></h1>
-![This is an image](https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse/blob/main/Images/Log1.png)
+
 
 <h3>UI Flow</h3>
 <ul>
