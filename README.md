@@ -36,76 +36,126 @@
 </div>
 
 
-Arquitectura
+<div align="center">
+ <table border="3" width="100%">
+ <tbody>
+ <tr>
+ <td></td>
+ <td><b><i>Arquitectura</i></b></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td><i><span style="font-weight: 400;">Paso</span></i></td>
+ <td><b><i>Descripción</i></b></td>
+ <td><b><i>Capa</i></b></td>
+ </tr>
+ <tr>
+ <td></td>
+ <td><span style="font-weight: 400;">Onboarding</span></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td><b>1</b></td>
+ <td><span style="font-weight: 400;">Página de registro: La página de registro permite a los usuarios crear una cuenta en la aplicación utilizando sus cuentas de redes sociales. La página de registro incluye campos para la información de perfil.</span></td>
+ <td><span style="font-weight: 400;">1 </span>
 
+ <span style="font-weight: 400;">Presentación</span></td>
+ </tr>
+ <tr>
+ <td><b>2</b></td>
+ <td><span style="font-weight: 400;">Página de inicio de sesión: La página de inicio de sesión permite a los usuarios iniciar sesión en la aplicación utilizando sus cuentas de redes sociales. Los usuarios podrían iniciar sesión con su información de perfil existente en Facebook.</span></td>
+ <td><span style="font-weight: 400;">1 </span>
 
-Paso
-Descripción
-Capa
+ <span style="font-weight: 400;">Presentación</span></td>
+ </tr>
+ <tr>
+ <td><b>3</b></td>
+ <td><span style="font-weight: 400;">Página de perfil: La página de perfil muestra la información de perfil del usuario, incluyendo su foto de perfil, nombre y otra información personal que hayan proporcionado durante el registro. Desde la página de perfil, los usuarios también podrían acceder a sus carteras de USDC y realizar transacciones</span></td>
+ <td><span style="font-weight: 400;">1 </span>
 
+ <span style="font-weight: 400;">Presentación</span></td>
+ </tr>
+ <tr>
+ <td><b>4</b></td>
+ <td><span style="font-weight: 400;">Página de transacciones: La página de transacciones permite a los usuarios enviar y recibir remesas en USDC, pagar por servicios o productos en USDC, e invertir en DeFi mediante contratos inteligentes en solana. La página de transacciones incluye campos para ingresar la cantidad de USDC a enviar o recibir, el destinatario o el proveedor de servicios y una lista de transacciones recientes.</span></td>
+ <td><span style="font-weight: 400;">1 </span>
 
-Onboarding
+ <span style="font-weight: 400;">Presentación</span></td>
+ </tr>
+ <tr>
+ <td><b>5</b></td>
+ <td><span style="font-weight: 400;">Menú de navegación: El menú de navegación es un elemento fijo en la aplicación que permitiría a los usuarios navegar entre las diferentes páginas de la aplicación. El menú de navegación podría incluir enlaces a la página de registro, la página de inicio de sesión, la página de perfil y la página de transacciones</span></td>
+ <td><span style="font-weight: 400;">1 </span>
 
+ <span style="font-weight: 400;">Presentación</span></td>
+ </tr>
+ <tr>
+ <td><b>6</b></td>
+ <td><span style="font-weight: 400;">Autenticación y validación de identidad: En esta etapa, la aplicación validaría la identidad del usuario utilizando la información de sus cuentas de redes sociales. La aplicación podría utilizar servicios de autenticación y verificación de identidad de terceros con el uso de API Meta. </span></td>
+ <td><span style="font-weight: 400;">2 </span>
 
-1
-Página de registro: La página de registro permite a los usuarios crear una cuenta en la aplicación utilizando sus cuentas de redes sociales. La página de registro incluye campos para la información de perfil.
-1 
-Presentación
-2
-Página de inicio de sesión: La página de inicio de sesión permite a los usuarios iniciar sesión en la aplicación utilizando sus cuentas de redes sociales. Los usuarios podrían iniciar sesión con su información de perfil existente en Facebook.
-1 
-Presentación
-3
-Página de perfil: La página de perfil muestra la información de perfil del usuario, incluyendo su foto de perfil, nombre y otra información personal que hayan proporcionado durante el registro. Desde la página de perfil, los usuarios también podrían acceder a sus carteras de USDC y realizar transacciones
-1 
-Presentación
-4
-Página de transacciones: La página de transacciones permite a los usuarios enviar y recibir remesas en USDC, pagar por servicios o productos en USDC, e invertir en DeFi mediante contratos inteligentes en solana. La página de transacciones incluye campos para ingresar la cantidad de USDC a enviar o recibir, el destinatario o el proveedor de servicios y una lista de transacciones recientes.
-1 
-Presentación
-5
-Menú de navegación: El menú de navegación es un elemento fijo en la aplicación que permitiría a los usuarios navegar entre las diferentes páginas de la aplicación. El menú de navegación podría incluir enlaces a la página de registro, la página de inicio de sesión, la página de perfil y la página de transacciones
-1 
-Presentación
-6
-Autenticación y validación de identidad: En esta etapa, la aplicación validaría la identidad del usuario utilizando la información de sus cuentas de redes sociales. La aplicación podría utilizar servicios de autenticación y verificación de identidad de terceros con el uso de API Meta. 
-2 
-Comercio 
-7
-Cartera de USDC: La aplicación permite a los usuarios mantener y gestionar su saldo de USDC  mediante una conexión con APIs Wallet Decaf para garantizar la seguridad y la compatibilidad.
-2 
-Comercio
-8
-Gestión de transacciones: La aplicación permite a los usuarios enviar y recibir remesas en USDC, pagar por servicios o productos en USDC, e invertir en DeFi mediante contratos inteligentes. La aplicación utilizaría contratos inteligentes en Solana para garantizar la seguridad y la rapidez de las transacciones.
-2 
-Comercio
-9
-Integración con servicios de terceros: La aplicación tiene integraciones con servicios de terceros como Decaf Wallet, para permitir a los usuarios convertir USDC en otras criptomonedas o monedas fiduciarias, realizar pagos en establecoins, e intercambiar criptomonedas en un exchange
-2 
-Comercio
-10
-Reportes y análisis: La aplicación permite a los usuarios generar reportes y análisis de sus transacciones en USDC. La aplicación podría integrarse con herramientas de análisis como Hello Moon para proporcionar a los usuarios información detallada sobre sus transacciones.
-2 
-Comercio
-11
-Red Solana: La aplicación esta construida sobre la red Solana, que es una blockchain de alto rendimiento y bajo costo diseñada para aplicaciones de DeFi. La red Solana permitiría una alta capacidad de procesamiento y una rápida validación de las transacciones en USDC
-3
-Infraestructura
-12
-Nodos de la red Solana: La aplicación tendrá nodos de la red Solana que procesan las transacciones de USDC y validan las identidades de los usuarios. Estos nodos estarán distribuidos en todo el mundo para garantizar una alta disponibilidad y una rápida validación de las transacciones
-3
-Infraestructura
-13
-Servicio de conversión de USDC: La aplicación podrá integrarse con un servicio de conversión de USDC a otras criptomonedas, como Bitcoin o Ethereum mediante el uso de API Decaf Wallet. 
-3
-Infraestructura
-14
-Seguridad y privacidad: La aplicación está diseñada con medidas de seguridad y privacidad para garantizar que los datos de los usuarios y las transacciones en USDC estén protegidos. La aplicación utiliza técnicas de encriptación y autenticación de dos factores para proteger los datos de los usuarios.
-3
-Infraestructura
+ <span style="font-weight: 400;">Comercio </span></td>
+ </tr>
+ <tr>
+ <td><b>7</b></td>
+ <td><span style="font-weight: 400;">Cartera de USDC: La aplicación permite a los usuarios mantener y gestionar su saldo de USDC  mediante una conexión con APIs Wallet Decaf para garantizar la seguridad y la compatibilidad.</span></td>
+ <td><span style="font-weight: 400;">2 </span>
 
+ <span style="font-weight: 400;">Comercio</span></td>
+ </tr>
+ <tr>
+ <td><b>8</b></td>
+ <td><span style="font-weight: 400;">Gestión de transacciones: La aplicación permite a los usuarios enviar y recibir remesas en USDC, pagar por servicios o productos en USDC, e invertir en DeFi mediante contratos inteligentes. La aplicación utilizaría contratos inteligentes en Solana para garantizar la seguridad y la rapidez de las transacciones.</span></td>
+ <td><span style="font-weight: 400;">2 </span>
 
-Arquitectura:
+ <span style="font-weight: 400;">Comercio</span></td>
+ </tr>
+ <tr>
+ <td><b>9</b></td>
+ <td><span style="font-weight: 400;">Integración con servicios de terceros: La aplicación tiene integraciones con servicios de terceros como Decaf Wallet, para permitir a los usuarios convertir USDC en otras criptomonedas o monedas fiduciarias, realizar pagos en establecoins, e intercambiar criptomonedas en un exchange</span></td>
+ <td><span style="font-weight: 400;">2 </span>
+
+ <span style="font-weight: 400;">Comercio</span></td>
+ </tr>
+ <tr>
+ <td><b>10</b></td>
+ <td><span style="font-weight: 400;">Reportes y análisis: La aplicación permite a los usuarios generar reportes y análisis de sus transacciones en USDC. La aplicación podría integrarse con herramientas de análisis como Hello Moon para proporcionar a los usuarios información detallada sobre sus transacciones.</span></td>
+ <td><span style="font-weight: 400;">2 </span>
+
+ <span style="font-weight: 400;">Comercio</span></td>
+ </tr>
+ <tr>
+ <td><b>11</b></td>
+ <td><span style="font-weight: 400;">Red Solana: La aplicación esta construida sobre la red Solana, que es una blockchain de alto rendimiento y bajo costo diseñada para aplicaciones de DeFi. La red Solana permitiría una alta capacidad de procesamiento y una rápida validación de las transacciones en USDC</span></td>
+ <td><span style="font-weight: 400;">3</span>
+
+ <span style="font-weight: 400;">Infraestructura</span></td>
+ </tr>
+ <tr>
+ <td><b>12</b></td>
+ <td><span style="font-weight: 400;">Nodos de la red Solana: La aplicación tendrá nodos de la red Solana que procesan las transacciones de USDC y validan las identidades de los usuarios. Estos nodos estarán distribuidos en todo el mundo para garantizar una alta disponibilidad y una rápida validación de las transacciones</span></td>
+ <td><span style="font-weight: 400;">3</span>
+
+ <span style="font-weight: 400;">Infraestructura</span></td>
+ </tr>
+ <tr>
+ <td><b>13</b></td>
+ <td><span style="font-weight: 400;">Servicio de conversión de USDC: La aplicación podrá integrarse con un servicio de conversión de USDC a otras criptomonedas, como Bitcoin o Ethereum mediante el uso de API Decaf Wallet. </span></td>
+ <td><span style="font-weight: 400;">3</span>
+
+ <span style="font-weight: 400;">Infraestructura</span></td>
+ </tr>
+ <tr>
+ <td><b>14</b></td>
+ <td><span style="font-weight: 400;">Seguridad y privacidad: La aplicación está diseñada con medidas de seguridad y privacidad para garantizar que los datos de los usuarios y las transacciones en USDC estén protegidos. La aplicación utiliza técnicas de encriptación y autenticación de dos factores para proteger los datos de los usuarios.</span></td>
+ <td><span style="font-weight: 400;">3</span>
+
+ <span style="font-weight: 400;">Infraestructura</span></td>
+ </tr>
+ </tbody>
+ </table>
+</div>
+   
    
 ![image](https://user-images.githubusercontent.com/17559524/221425040-1ffa914c-1b66-4fc6-8b7b-f0633e28511a.png)
 
