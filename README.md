@@ -5,7 +5,8 @@
  
  NaltonPaiyApp - Pequenio Corredor Veloz!]
  
-![image](https://user-images.githubusercontent.com/17559524/221425560-3ecb9f34-5089-4336-8293-d85b8a0f83e8.png)
+![image](https://user-images.githubusercontent.com/17559524/221425655-baced173-a952-46b8-aecc-b1235ca6336f.png)
+
 
 
 
