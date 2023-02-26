@@ -162,3 +162,28 @@
 ![image](https://user-images.githubusercontent.com/17559524/221432956-d0b0c2eb-86d0-4acb-9e16-ae1d4c6b26bc.png)
 
 
+
+
+NFT Changarros
+
+![image](https://user-images.githubusercontent.com/17559524/221437977-5c7fb5da-8604-4c27-bba8-01065dd75fc2.png)
+
+Vendedor abre la APP  y registra:
+
+Foto de su Puesto
+Elige Marco para su Foto/NFT de su Negocio
+Agrega el Nombre de su Tienda
+Telefono
+Quien Atiende
+Ubicacion
+Foto del Vendedor(es)
+Horario de Servicio
+Wallet en Paiy.app
+Usuario de Paiy.app
+Agrega su Tienda en el Mapa (GPS link)
+Mintea su Tienda en la App con toda la info
+Listo! su tienda ya es un NFT con la informacion de su negocio
+
+
+
+
