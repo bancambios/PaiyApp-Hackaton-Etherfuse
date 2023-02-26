@@ -21,6 +21,7 @@
 </ul></div>
 
 
+
 <div align="center">
 <a title="GUI Mobile"  target="_blank"><img src="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse/blob/main/Images/GUI%20Mobile.png"  width="250" height="500"></a>
 </div>
