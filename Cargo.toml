@@ -1,0 +1,9 @@
+[package]
+name = "solana-transfer"
+version = "0.1.0"
+authors = ["Tu nombre"]
+edition = "2018"
+
+[dependencies]
+solana-sdk = "1.8.14"
+spl-token = "3.4.0
