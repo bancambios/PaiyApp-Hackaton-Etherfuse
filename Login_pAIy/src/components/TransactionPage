@@ -1,0 +1,61 @@
+/*  import React, { useState } from "react";
+import { useWallet } from "@solana/wallet-adapter-react";
+import { Connection, SystemProgram, Transaction, sendAndConfirmTransaction } from "@solana/web3.js";
+
+function TransactionPage() {
+  const wallet = useWallet();
+  const [recipient, setRecipient] = useState("");
+  const [amount, setAmount] = useState(0);
+  const [recentTransactions, setRecentTransactions] = useState([]);
+
+  const handleSend = async () => {
+    const connection = new Connection("https://api.mainnet-beta.solana.com");
+
+    // Create and sign transaction
+    const transaction = new Transaction().add(
+      SystemProgram.transfer({
+        fromPubkey: wallet.publicKey,
+        toPubkey: recipient,
+        lamports: amount,
+      })
+    );
+    transaction.feePayer = wallet.publicKey;
+
+    try {
+      // Send transaction to the network
+      const txid = await sendAndConfirmTransaction(connection, transaction, [wallet.signer]);
+      console.log(`Transaction ${txid} sent!`);
+      setRecentTransactions([...recentTransactions, txid]); // Update list of recent transactions
+    } catch (error) {
+      console.error(error);
+    }
+  };
+
+  return (
+    <div>
+      <h1>Transacciones</h1>
+      <form onSubmit={(e) => e.preventDefault()}>
+        <label>
+          Destinatario:
+          <input type="text" value={recipient} onChange={(e) => setRecipient(e.target.value)} />
+        </label>
+        <br />
+        <label>
+          Cantidad:
+          <input type="number" value={amount} onChange={(e) => setAmount(e.target.value)} />
+        </label>
+        <br />
+        <button onClick={handleSend}>Enviar USDC</button>
+      </form>
+      <h2>Transacciones Recientes</h2>
+      <ul>
+        {recentTransactions.map((txid) => (
+          <li key={txid}>{txid}</li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+export default TransactionPage;
+*/
