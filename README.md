@@ -14,7 +14,7 @@
 
 
 <a title="Logo pAIy" href="https://www.canva.com/design/DAFbohngzsQ/5U7AudeforlzVrcpKlU-9A/watch?utm_content=DAFbohngzsQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><img src="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse/blob/main/Images/Log1.png"  width="200" height="200"></a>
-<li>(Poner Link a la pagina en la imagen)
+<li>([Poner Link a la pagina en la imagen](https://www.paiy.app/))
 </div>
 
 <div align="justify">
