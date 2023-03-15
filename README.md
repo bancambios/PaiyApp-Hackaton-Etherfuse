@@ -1,5 +1,5 @@
 <div align="center">
-<h1> The project for the Grizzlython Hackaton is in the MASTER branch. </h1>
+<h1> The React project for the Grizzlython Hackaton is in the MASTER branch. </h1>
 </div>
 
 
