@@ -1,6 +1,7 @@
 <div align="center">
 <h1> The React project for the Grizzlython Hackaton is in the MASTER branch. 
-<br> you can find the upload project at:  https://www.paiy.app/ </h1>
+<br> you can find the upload project at:  https://www.paiy.app/ 
+<br> <b> To React proyect: <b> <em> User: Nalton   ;   Password: 123  </em></h1>
 </div>
 
 
