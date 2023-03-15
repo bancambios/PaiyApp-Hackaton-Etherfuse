@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #7cc1d4;
+}
+.wallet_button{
+  position: fixed;
+  margin-left: 40px;
+  text-align: center;
+}
+.ml-button{
+  /* width: 200px; */
+  height: 50px;
+  color: white;
+  cursor: pointer!important;
+  background: linear-gradient(90deg, #3706C1 9.68%, #7646FF 111.27%);
+  border: 0.5px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 44px;
+  font-family: 'Mdm';
+  font-size: 1rem;
+  text-align: center;
+  padding: 0 40px;
+}
+.ml-button:hover{
+
+}
+.ml-button:active{
+  animation: 0.1s ease-in-out;
+  opacity: 0.7;
+ 
+  border: 2px solid #FFFFFF;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
