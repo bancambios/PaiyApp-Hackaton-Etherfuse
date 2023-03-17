@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<a title="Proyect Name" href="https://www.paiy.app/"  target="_blank"><img src="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse/blob/main/Images/ProyectName%7D.png"  width="400" height="75"></a>
+<a title="Proyect Name" href="https://www.paiy.app/"  target="_``blank"><img src="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse/blob/main/Images/ProyectName%7D.png"  width="400" height="75"></a>
  
  <div align="center">
 <h2>  Nalton Paiy App - "Pequenio Corredor Veloz!" / Nalton in Nauatl (Aztec) means: Little fast runner!
