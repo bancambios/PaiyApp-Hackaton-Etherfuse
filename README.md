@@ -1,6 +1,6 @@
 <div align="center">
 <h1> The React project for the Grizzlython Hackaton is in the MASTER branch. 
-<br> you can find the upload project at:  https://www.paiy.app/ (The landing page is being updated)
+<br> you can find the upload new landing page project at:  https://lp-nalton-3b514b803893.herokuapp.com/
 <br> <b> To React proyect: https://naltonpaiyapp.000webhostapp.com/ <b> <em> User: Nalton   ;   Password: 123  </em></h1>
 </div>
 
