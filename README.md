@@ -180,6 +180,10 @@ NFT Changarros
 ![image](https://user-images.githubusercontent.com/17559524/221437977-5c7fb5da-8604-4c27-bba8-01065dd75fc2.png)
 
 
+### The previous Wix Landing Page
+https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse/assets/89156254/57b91956-bb17-4c80-b7f9-d9658173f3cc
+
+
    
    
 
